@@ -1,0 +1,6 @@
+{
+  "supalens": {
+    "type": "http",
+    "url": "https://mcp.supalens.ai"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "supalens",
+  "description": "Connect your database to Claude via Supalens. Ask questions in natural language, generate SQL, create dashboards and visualizations — all from Claude Code or Claude App.",
+  "author": {
+    "name": "Streamize LLC"
+  },
+  "keywords": [
+    "analytics",
+    "database",
+    "sql",
+    "dashboard",
+    "mcp",
+    "supabase",
+    "postgresql",
+    "mysql"
+  ]
+}
